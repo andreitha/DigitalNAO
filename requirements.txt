@@ -2,6 +2,9 @@
 # on Windows or when using a GPU. Please see the installation
 # instructions in INSTALL.md
 
+#Modificar archivo
+Se modifica archivo requirements dentro de la nuevaRama
+
 ##### Core scientific packages
 jupyter==1.0.0
 matplotlib==3.3.4
